@@ -1,0 +1,8 @@
+Main.class
+Parser2.class
+Purchase.class
+service\MapParsedDataService.class
+service\FormatTgMessageService.class
+Parser1.class
+Bot.class
+Model1.class
